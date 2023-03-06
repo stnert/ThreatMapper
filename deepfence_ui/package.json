@@ -10,7 +10,7 @@
     "@ant-design/charts": "^1.3.6",
     "@ant-design/icons": "^4.7.0",
     "@antv/g2plot": "^2.4.20",
-    "@antv/g6": "^4.6.15",
+    "@antv/g6": "^4.8.5",
     "@babel/helper-module-imports": "^7.0.0",
     "@reach/portal": "^0.17.0",
     "@reach/dialog": "^0.17.0",
