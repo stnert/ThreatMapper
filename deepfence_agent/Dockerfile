@@ -2,7 +2,7 @@ ARG DF_IMG_TAG=latest
 ARG IMAGE_REPOSITORY=deepfenceio
 FROM $IMAGE_REPOSITORY/deepfence_package_scanner_ce:$DF_IMG_TAG AS build
 
-FROM debian:11.6-slim
+FROM debian:bullseye-20240722-slim
 
 MAINTAINER Deepfence Inc
 LABEL deepfence.role=system
